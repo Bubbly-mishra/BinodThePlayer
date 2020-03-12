@@ -1,0 +1,2 @@
+rootProject.name='BinodThePlayer'
+include ':app'
